@@ -1,6 +1,7 @@
 theme = "onedark"
 
 [editor]
+true-color = true
 line-number = "relative"
 cursorline = true
 cursorcolumn = true
